@@ -1,6 +1,6 @@
 # Warehouse Management System (Simple CRUD)
 
-Prosta aplikacja konsolowa typu CRUD napisaną w **Java** z wykorzystaniem bazy danych **PostgreSQL**. Projekt stworzony w celu demonstracji obsługi JDBC, walidacji danych wejściowych oraz poprawnej obsługi wyjątków.
+Prosta aplikacja konsolowa typu CRUD napisana w **Java** z wykorzystaniem bazy danych **PostgreSQL**. Projekt stworzony w celu demonstracji obsługi JDBC, walidacji danych wejściowych oraz poprawnej obsługi wyjątków.
 
 ## Funkcje
 * Wyświetlanie listy produktów.
